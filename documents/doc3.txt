@@ -1,0 +1,2 @@
+Search engines use an inverted index to
+quickly find documents containing specific words.
